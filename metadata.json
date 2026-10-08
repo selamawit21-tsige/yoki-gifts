@@ -1,0 +1,6 @@
+{
+  "name": "Yoki Gifts | Luxury Photobook Atelier",
+  "description": "Bespoke, minimalist luxury photobooks and memory books inspired by Pixory. Custom A4 Hardcover and A5 Magazines with Ethiopian Birr (ETB) checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
